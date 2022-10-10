@@ -65,6 +65,7 @@ view: pixel {
   dimension: lat_lon {
     type: string
     sql: ${TABLE}.lat_lon ;;
+    view_label: "Geography"
   }
 
   dimension: source_id {
