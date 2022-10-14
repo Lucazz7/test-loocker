@@ -42,3 +42,5 @@ explore: mv_alerts {}
 explore: mv_historical {}
 
 explore: pixel_source_alerts {}
+
+explore: pixel_lat_long_athena {}
